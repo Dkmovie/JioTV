@@ -9,6 +9,9 @@ Don't Edit This Script
 <br>
 
 
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Dkmovie/OP-Files-Store-Bot)
+
 <h2>😇 Features :</h2>
 
 - *HQ Streaming* <br>
